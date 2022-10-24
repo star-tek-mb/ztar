@@ -32,3 +32,8 @@ pub fn main() !void {
     }
 }
 ```
+
+# TODO
+
+* [ ] Add a writing API
+* [ ] Add extended reader/writer for handling long file names (with allocator)
